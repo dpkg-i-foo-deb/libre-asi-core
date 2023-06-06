@@ -1,12 +1,14 @@
 pub mod models;
 pub mod repositories;
-
 pub fn add(left: usize, right: usize) -> usize {
     left + right
 }
 
 #[cfg(test)]
 mod tests {
+
+    mod asi_form_tests;
+
     use super::*;
 
     #[test]

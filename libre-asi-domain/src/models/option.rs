@@ -1,6 +1,5 @@
 //Here we represent an option form the ASI Form
-pub struct Option {
-   statement:String,
+pub struct Option { 
     //Values come from the ASI form itself, they
     //mostly correspond to the patient or interviewer
     //scales
