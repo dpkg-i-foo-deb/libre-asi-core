@@ -28,18 +28,22 @@ pub enum AsiVersion {
 }
 
 //Here we represent the ASI form on an specific edition and version
-pub struct AsiForm <'a> {
+pub struct AsiForm {
     //Admission, follow-up, etc
     version: AsiVersion,
     //Currently we have the 6th edition
     edition: u8,
-    questions: Vec<Question<'a>>,
+    questions: Vec<Question>,
 }
 
-impl AsiForm<'_> {
+impl AsiForm {
 
     pub fn new(version:AsiVersion, edition:u8, questions:Vec<Question>) -> AsiForm {
         AsiForm { version, edition, questions }
+    }
+
+    pub fn question_at(&self, index:usize) -> Option<&Question> {
+        self.questions.get(index)
     }
 
     pub fn check_limits(&self, question_id: &str) -> &str {
@@ -58,12 +62,14 @@ impl AsiForm<'_> {
     }
 
 
-    pub fn check_autofill<'a>( &'a self, question: &'a Question, answer_value:u8 ) -> &str{
+    pub fn check_autofill(&self, question: &Question, answer_value:u8 ) -> String{
         
         match answer_value == 180 {
-            true => question.autofill_to(),
-            false => "#",
+            true => question.autofill_to().to_owned(),
+            false => String::from("#"),
         } 
     }
+
+    pub fn check_dependencies(&self){}
     
 }

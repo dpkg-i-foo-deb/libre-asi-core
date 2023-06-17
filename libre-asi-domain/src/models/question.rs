@@ -10,16 +10,16 @@ pub enum QuestionType {
     NUM,
 }
 //A question from the ASI is represented here
-pub struct Question<'a> {
+pub struct Question {
     //Here the ID is a string, because every question has a simple
     //identifier in the form, for example... M20,D11,L23...
-    id: &'a str,
+    id: String,
     //This refers to the question you should skip to in case the
     //conditions are met
-    skip_to:&'a str,
+    skip_to:String,
     //Refers to which question should be autofilled in case the
     //conditions are met
-    autofill_to:&'a str,
+    autofill_to:String,
     //Order refers to the order the question should appear in A SECTION
     order: i16,
     //The section = Information, medical, employment, etc
@@ -30,20 +30,20 @@ pub struct Question<'a> {
     options:Vec<Option>
 }
 
-impl Question<'_> {
-    pub fn new<'a>(
-        id: &'a str,
-        skip_to:&'a str,
-        autofill_to:&'a str,
+impl Question {
+    pub fn new(
+        id: &str,
+        skip_to:&str,
+        autofill_to:&str,
         order: i16,
         section: FormSection,
         question_type: QuestionType,
         options:Vec<Option>
-    ) -> Question<'a> {
+    ) -> Question {
         Question {
-            id,
-            skip_to,
-            autofill_to,
+            id:id.to_string(),
+            skip_to:skip_to.to_string(),
+            autofill_to:autofill_to.to_string(),
             order,
             section,
             question_type,
@@ -56,7 +56,7 @@ impl Question<'_> {
     }
 
     pub fn autofill_to(&self) -> &str{
-        &self.autofill_to
+        &self.autofill_to.as_str()
     }
 }
 
