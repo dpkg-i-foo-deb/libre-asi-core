@@ -1,0 +1,8 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./libre-asi-domain/Cargo.toml",
+        "./libre-asi-domain/Cargo.toml",
+        "./libre-asi-domain/Cargo.toml",
+        "./libre-asi-domain/Cargo.toml"
+    ]
+}
