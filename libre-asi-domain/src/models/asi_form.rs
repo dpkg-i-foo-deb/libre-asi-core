@@ -37,39 +37,38 @@ pub struct AsiForm {
 }
 
 impl AsiForm {
-
-    pub fn new(version:AsiVersion, edition:u8, questions:Vec<Question>) -> AsiForm {
-        AsiForm { version, edition, questions }
-    }
-
-    pub fn question_at(&self, index:usize) -> Option<&Question> {
-        self.questions.get(index)
-    }
-
-    pub fn check_limits(&self, question_id: &str) -> &str {
-        match question_id {
-            "I14" => "H1",
-            "H12" => "M1",
-            "M28B" => "E1",
-            "E36" => "D1",
-            "D60" => "L1",
-            "L32B" => "F1",
-            "F54" => "P1",
-            "P21" => "V1",
-            "V1" => "#",
-            _ => "NONE",
+    pub fn new(version: AsiVersion, edition: u8, questions: Vec<Question>) -> AsiForm {
+        AsiForm {
+            version,
+            edition,
+            questions,
         }
     }
 
-
-    pub fn check_autofill(&self, question: &Question, answer_value:u8 ) -> String{
-        
-        match answer_value == 180 {
-            true => question.autofill_to().to_owned(),
-            false => String::from("#"),
-        } 
+    pub fn question_at(&self, index: usize) -> Option<&Question> {
+        self.questions.get(index)
     }
 
-    pub fn check_dependencies(&self){}
-    
+    pub fn check_limits(&self, question_id: &str) -> Option<&str> {
+        match question_id {
+            "I14" => Some("H1"),
+            "H12" => Some("M1"),
+            "M28B" => Some("E1"),
+            "E36" => Some("D1"),
+            "D60" => Some("L1"),
+            "L32B" => Some("F1"),
+            "F54" => Some("P1"),
+            "P21" => Some("V1"),
+            _ => None,
+        }
+    }
+
+    pub fn check_autofill(&self, question: &Question, answer_value: u8) -> Option<String> {
+        match answer_value == 180 {
+            true => Some(question.autofill_to().to_owned()),
+            false => None,
+        }
+    }
+
+    pub fn check_dependencies(&self) {}
 }
