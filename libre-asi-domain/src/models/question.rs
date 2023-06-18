@@ -56,7 +56,7 @@ impl Question {
     }
 
     pub fn autofill_to(&self) -> &str{
-        &self.autofill_to.as_str()
+        self.autofill_to.as_str()
     }
 }
 
