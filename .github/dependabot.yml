@@ -9,10 +9,10 @@ updates:
     directory: "/" # Location of package manifests
     schedule:
       interval: "weekly"
-  - target-branch: "testing"
+    target-branch: "testing"
       
   - package-ecosystem: "cargo" # See documentation for possible values
     directory: "/libre-asi-domain/" # Location of package manifests
     schedule:
       interval: "weekly"
-  - target-branch: "testing"
+    target-branch: "testing"
