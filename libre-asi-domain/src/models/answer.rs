@@ -1,5 +1,7 @@
+use super::question::Question;
+
 pub struct Answer {
-    question_id:String,
+    question:Question,
     value:u32,
     comment:String,
 }
