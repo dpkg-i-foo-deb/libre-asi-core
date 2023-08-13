@@ -10,6 +10,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "libre-asi-services"
+version = "0.1.0"
+dependencies = [
+ "libre-asi-domain",
+]
+
+[[package]]
 name = "proc-macro2"
 version = "1.0.59"
 source = "registry+https://github.com/rust-lang/crates.io-index"

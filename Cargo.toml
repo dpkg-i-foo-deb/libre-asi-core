@@ -1,2 +1,2 @@
 [workspace]
-members = ["libre-asi-domain"]
+members = ["libre-asi-domain", "libre-asi-services"]
