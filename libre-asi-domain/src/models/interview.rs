@@ -9,5 +9,4 @@ impl Interview{
         Interview { answers }
     }
 
-    pub fn compute_results(){}
 }
