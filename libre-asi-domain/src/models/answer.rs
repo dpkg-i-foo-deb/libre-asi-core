@@ -11,8 +11,8 @@ impl Answer {
         &self.question.id()
     }
 
-    pub fn value(&self) -> &f32 {
-        &self.value
+    pub fn value(&self) -> f32 {
+        self.value
     }
 
     pub fn int_value(&self) -> u16 {
