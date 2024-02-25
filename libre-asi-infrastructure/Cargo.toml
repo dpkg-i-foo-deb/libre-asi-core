@@ -1,0 +1,18 @@
+[package]
+name = "libre-asi-infrastructure"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+domain = { package = "libre-asi-domain", path = "../libre-asi-domain" }
+thiserror = "1.0.0"
+sqlx = { version = "0.7", features = ["runtime-tokio", "tls-rustls", "sqlite"] }
+sea-orm = { version = "0.12", features = [
+    "sqlx-sqlite",
+    "runtime-tokio-rustls",
+    "macros",
+] }
+serde = "1.0.197"
+serde_json = "1.0"

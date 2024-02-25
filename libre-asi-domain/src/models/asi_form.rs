@@ -5,8 +5,8 @@ use super::question::Question;
 pub enum FormSection {
     //Information
     INFO,
-    //Housing
-    HOUS,
+    //Accomodation
+    ACC,
     //Medical
     MED,
     //Employment

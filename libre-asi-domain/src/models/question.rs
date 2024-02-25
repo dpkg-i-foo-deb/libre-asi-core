@@ -22,7 +22,7 @@ pub struct Question {
     autofill_to: String,
     //Order refers to the order the question should appear in A SECTION
     order: i16,
-    //The section = Information, medical, employment, etc
+    //Form section the question belongs to. Example: Information, medical, employment, etc
     section: FormSection,
     question_type: QuestionType,
     //A question contains multiple options, on the ASI form, they are
