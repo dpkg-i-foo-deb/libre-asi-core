@@ -1,9 +1,9 @@
 [
 	{
-		"special_id": "I12",
+		"id": "I12",
 		"statement": "¿Cuál es su estado civil actual?",
 		"order": 12,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "INF",
 		"options": [
 			{
@@ -39,10 +39,10 @@
 		]
 	},
 	{
-		"special_id": "I13",
+		"id": "I13",
 		"statement": "¿Cuánto tiempo lleva en dicho estado civil?",
 		"order": 13,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "INF",
 		"options": [
 			{
@@ -58,10 +58,10 @@
 		]
 	},
 	{
-		"special_id": "I14",
+		"id": "I14",
 		"statement": "¿Quién le derivó el tratamiento?",
 		"order": 14,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "INF",
 		"options": [
 			{
@@ -107,10 +107,10 @@
 		]
 	},
 	{
-		"special_id": "A1A",
+		"id": "A1A",
 		"statement": "En los últimos 6 meses, ¿Cuántas noches ha permanecido en un hospital, en una unidad de hospitalización para alcohol, drogas o psiquiátrica, cárcel, comunidad terapéutica o piso protegido?",
 		"order": 1,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -121,10 +121,10 @@
 		]
 	},
 	{
-		"special_id": "A1B",
+		"id": "A1B",
 		"statement": "En los últimos 30 días, ¿Cuántas noches ha permanecido en un hospital, en una unidad de hospitalización para alcohol, drogas o psiquiátrica, cárcel, comunidad terapéutica o piso protegido?",
 		"order": 2,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -135,10 +135,10 @@
 		]
 	},
 	{
-		"special_id": "A2A",
+		"id": "A2A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en una unidad residencial para alcohol o drogas?",
 		"order": 3,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -149,10 +149,10 @@
 		]
 	},
 	{
-		"special_id": "A2B",
+		"id": "A2B",
 		"statement": "De esas noches en los últimos 30 días  ¿Cuántas fueron en una unidad residencial para alcohol o drogas?",
 		"order": 4,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -163,10 +163,10 @@
 		]
 	},
 	{
-		"special_id": "A3A",
+		"id": "A3A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en un servicio de hospital general distinto de psiquiatría?",
 		"order": 5,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -177,10 +177,10 @@
 		]
 	},
 	{
-		"special_id": "A3B",
+		"id": "A3B",
 		"statement": "De esas noches en los últimos 30 días ¿Cuántas fueron en un servicio de hospital general distinto de psiquiatría?",
 		"order": 6,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -191,10 +191,10 @@
 		]
 	},
 	{
-		"special_id": "A4A",
+		"id": "A4A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en un servicio de psiquiatría?",
 		"order": 7,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -205,10 +205,10 @@
 		]
 	},
 	{
-		"special_id": "A4B",
+		"id": "A4B",
 		"statement": "De esas noches en los últimos 30 días ¿Cuántas fueron en un servicio de psiquiatría?",
 		"order": 8,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -219,10 +219,10 @@
 		]
 	},
 	{
-		"special_id": "A5A",
+		"id": "A5A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en una comisaría / prisión?",
 		"order": 9,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -233,10 +233,10 @@
 		]
 	},
 	{
-		"special_id": "A5B",
+		"id": "A5B",
 		"statement": "De esas noches en los últimos 30 días ¿Cuántas fueron en una comisaría / prisión?",
 		"order": 10,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -247,10 +247,10 @@
 		]
 	},
 	{
-		"special_id": "A6A",
+		"id": "A6A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en un piso protegido o intermedio?",
 		"order": 11,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -261,10 +261,10 @@
 		]
 	},
 	{
-		"special_id": "A6B",
+		"id": "A6B",
 		"statement": "De esas noches en los últimos 30 días ¿Cuántas fueron en un piso protegido o intermedio?",
 		"order": 12,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -275,10 +275,10 @@
 		]
 	},
 	{
-		"special_id": "A7A",
+		"id": "A7A",
 		"statement": "De esas noches en los últimos 6 meses ¿Cuántas fueron en otro tipo de alojamiento restringido o supervisado?",
 		"order": 13,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -289,10 +289,10 @@
 		]
 	},
 	{
-		"special_id": "A7B",
+		"id": "A7B",
 		"statement": "De esas noches en los últimos 30 días ¿Cuántas fueron en otro tipo de alojamiento restringido o supervisado?",
 		"order": 14,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -303,10 +303,10 @@
 		]
 	},
 	{
-		"special_id": "A8A",
+		"id": "A8A",
 		"statement": "En los últimos 6 meses ¿Cuántas noches ha estado en un albergue para gente sin hogar?",
 		"order": 15,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -317,10 +317,10 @@
 		]
 	},
 	{
-		"special_id": "A8B",
+		"id": "A8B",
 		"statement": "En los últimos 30 días ¿Cuántas noches ha estado en un albergue para gente sin hogar?",
 		"order": 16,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -331,10 +331,10 @@
 		]
 	},
 	{
-		"special_id": "A9A",
+		"id": "A9A",
 		"statement": "En los últimos 6 meses ¿Cuántas noches ha pasado en la calle, o en lugares como edificios abandonados, coches o parques porque no tenía otro lugar para quedarse?",
 		"order": 17,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -345,10 +345,10 @@
 		]
 	},
 	{
-		"special_id": "A9B",
+		"id": "A9B",
 		"statement": "En los últimos 30 días ¿Cuántas noches ha pasado en la calle, o en lugares como edificios abandonados, coches o parques porque no tenía otro lugar para quedarse?",
 		"order": 18,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -359,10 +359,10 @@
 		]
 	},
 	{
-		"special_id": "A10",
+		"id": "A10",
 		"statement": "¿Alguna vez se ha quedado en un albergue para gente sin hogar o ha vivido en la calle (edificios abandonados, coches, o parques) porque no tenía otro lugar para quedarse?",
 		"order": 19,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -378,10 +378,10 @@
 		]
 	},
 	{
-		"special_id": "A11",
+		"id": "A11",
 		"statement": "En los últimos 30 días (cuando NO estaba en un alojamiento restringido/supervisado o albergue), ha vivido con:",
 		"order": 20,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "ACC",
 		"options": [
 			{
@@ -422,10 +422,10 @@
 		]
 	},
 	{
-		"special_id": "A12",
+		"id": "A12",
 		"statement": "En los últimos 30 días (cuando NO estaba en un alojamiento restringido/supervisado o albergue), ¿ha vivido con alguien que tenga actualmente problemas con el alcohol o que consuma drogas? ",
 		"order": 21,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "ACC",
 		"options": [
 			{
@@ -441,10 +441,10 @@
 		]
 	},
 	{
-		"special_id": "SF1",
+		"id": "SF1",
 		"statement": "¿Qué tipo de seguro médico tiene?",
 		"order": 1,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -480,10 +480,10 @@
 		]
 	},
 	{
-		"special_id": "SF2",
+		"id": "SF2",
 		"statement": "¿Está embarazada?",
 		"order": 2,
-		"type": "TQ",
+		"question_type": "TQ",
 		"category": "MED",
 		"options": [
 			{
@@ -504,10 +504,10 @@
 		]
 	},
 	{
-		"special_id": "SF3",
+		"id": "SF3",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado hipertensión arterial?",
 		"order": 3,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -523,10 +523,10 @@
 		]
 	},
 	{
-		"special_id": "SF4",
+		"id": "SF4",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado diabetes?",
 		"order": 4,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -542,10 +542,10 @@
 		]
 	},
 	{
-		"special_id": "SF5",
+		"id": "SF5",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado enfermedades cardíacas?",
 		"order": 5,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -561,10 +561,10 @@
 		]
 	},
 	{
-		"special_id": "SF6",
+		"id": "SF6",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado accidente cerebrovascular?",
 		"order": 6,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -580,10 +580,10 @@
 		]
 	},
 	{
-		"special_id": "SF7",
+		"id": "SF7",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado epilepsia o convulsiones?",
 		"order": 7,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -599,10 +599,10 @@
 		]
 	},
 	{
-		"special_id": "SF8",
+		"id": "SF8",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado cáncer?",
 		"order": 8,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -618,10 +618,10 @@
 		]
 	},
 	{
-		"special_id": "SF9",
+		"id": "SF9",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado VIH/SIDA?",
 		"order": 9,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -637,10 +637,10 @@
 		]
 	},
 	{
-		"special_id": "SF10",
+		"id": "SF10",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado tuberculosis o test positivo de tuberculina?",
 		"order": 10,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -656,10 +656,10 @@
 		]
 	},
 	{
-		"special_id": "SF11",
+		"id": "SF11",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado hepatitis?",
 		"order": 11,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -675,10 +675,10 @@
 		]
 	},
 	{
-		"special_id": "SF12",
+		"id": "SF12",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado cirrosis u otras enfermedades hepáticas crónica?",
 		"order": 12,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -694,10 +694,10 @@
 		]
 	},
 	{
-		"special_id": "SF13",
+		"id": "SF13",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado nefropatía crónica?",
 		"order": 13,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -713,10 +713,10 @@
 		]
 	},
 	{
-		"special_id": "SF14",
+		"id": "SF14",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado enfermedad respiratoria crónica?",
 		"order": 14,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -732,10 +732,10 @@
 		]
 	},
 	{
-		"special_id": "SF15",
+		"id": "SF15",
 		"statement": "¿Alguna vez un médico o un profesional sanitario le ha diagnosticado otras enfermedades crónicas ?",
 		"order": 15,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -751,10 +751,10 @@
 		]
 	},
 	{
-		"special_id": "SF16",
+		"id": "SF16",
 		"statement": "¿Tiene algún tipo de discapacidad física que afecte gravemente a su visión, audición o movilidad?",
 		"order": 16,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -770,10 +770,10 @@
 		]
 	},
 	{
-		"special_id": "SF17",
+		"id": "SF17",
 		"statement": "¿Alguna vez le han prescrito medicación para alguna de esas enfermedades?",
 		"order": 17,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -799,10 +799,10 @@
 		]
 	},
 	{
-		"special_id": "SF18",
+		"id": "SF18",
 		"statement": "¿Recibe algún tipo de pensión (o paga) por una enfermedad o discapacidad física?",
 		"order": 18,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "MED",
 		"options": [
 			{
@@ -818,10 +818,10 @@
 		]
 	},
 	{
-		"special_id": "SF19",
+		"id": "SF19",
 		"statement": "En los últimos 30 días, ¿cómo diría que ha sido su salud física?",
 		"order": 19,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -852,10 +852,10 @@
 		]
 	},
 	{
-		"special_id": "SF20",
+		"id": "SF20",
 		"statement": "¿Cuántos días ha tenido algún problema de salud física?",
 		"order": 20,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -866,10 +866,10 @@
 		]
 	},
 	{
-		"special_id": "SF21",
+		"id": "SF21",
 		"statement": "¿Cuántos días ha sido incapaz de realizar sus actividades cotidianas debido a problemas de salud física? ",
 		"order": 21,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -880,10 +880,10 @@
 		]
 	},
 	{
-		"special_id": "SF22",
+		"id": "SF22",
 		"statement": "¿Cuánto dolor o malestar físico ha experimentado?",
 		"order": 22,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -914,10 +914,10 @@
 		]
 	},
 	{
-		"special_id": "SF23",
+		"id": "SF23",
 		"statement": "¿Cuánta preocupación ha tenido por culpa de su salud física o sus problemas médicos?",
 		"order": 23,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -948,10 +948,10 @@
 		]
 	},
 	{
-		"special_id": "SF24",
+		"id": "SF24",
 		"statement": "¿Cuánta importancia tiene para usted el tratamiento (actual o adicional) para sus problemas de salud física?",
 		"order": 24,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "MED",
 		"options": [
 			{
@@ -982,10 +982,10 @@
 		]
 	},
 	{
-		"special_id": "SF25",
+		"id": "SF25",
 		"statement": "¿Cuántas veces en su vida ha estado hospitalizado (al menos una noche) por problemas de salud física?",
 		"order": 25,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -996,10 +996,10 @@
 		]
 	},
 	{
-		"special_id": "SF26A",
+		"id": "SF26A",
 		"statement": "En los últimos 6 meses ¿Cuántas veces ha acudido a un servicio de urgencias por cualquier problema de salud fisíca?",
 		"order": 26,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1010,10 +1010,10 @@
 		]
 	},
 	{
-		"special_id": "SF26B",
+		"id": "SF26B",
 		"statement": "En los últimos 30 días ¿Cuántas veces ha acudido a un servicio de urgencias por cualquier problema de salud fisíca?",
 		"order": 27,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1024,10 +1024,10 @@
 		]
 	},
 	{
-		"special_id": "SF27A",
+		"id": "SF27A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha tomado la medicación prescrita para una enfermedad física?",
 		"order": 28,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1038,10 +1038,10 @@
 		]
 	},
 	{
-		"special_id": "SF27B",
+		"id": "SF27B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha tomado la medicación prescrita para una enfermedad física?",
 		"order": 29,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1052,10 +1052,10 @@
 		]
 	},
 	{
-		"special_id": "SF28A",
+		"id": "SF28A",
 		"statement": "En los últimos 6 meses ¿Cuántas consultas ambulatorias ha realizado con un médico u otro profesional sanitario?",
 		"order": 30,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1066,10 +1066,10 @@
 		]
 	},
 	{
-		"special_id": "SF28B",
+		"id": "SF28B",
 		"statement": "En los últimos 30 días ¿Cuántas consultas ambulatorias ha realizado con un médico u otro profesional sanitario?",
 		"order": 31,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "MED",
 		"options": [
 			{
@@ -1080,10 +1080,10 @@
 		]
 	},
 	{
-		"special_id": "E1",
+		"id": "E1",
 		"statement": "¿Cuál es el máximo nivel de estudios alcanzado?",
 		"order": 1,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1119,10 +1119,10 @@
 		]
 	},
 	{
-		"special_id": "E2",
+		"id": "E2",
 		"statement": "¿Tiene algún otro titulo, diploma o certificado de enseñanzas regladas?",
 		"order": 2,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1138,10 +1138,10 @@
 		]
 	},
 	{
-		"special_id": "E3",
+		"id": "E3",
 		"statement": "¿Cuál es el último curso que completó?",
 		"order": 3,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1202,10 +1202,10 @@
 		]
 	},
 	{
-		"special_id": "E4",
+		"id": "E4",
 		"statement": "¿Ha servido alguna vez en las Fuerzas Armadas?",
 		"order": 4,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1221,10 +1221,10 @@
 		]
 	},
 	{
-		"special_id": "E5",
+		"id": "E5",
 		"statement": "¿Actualmente cursa algún tipo de estudio académico o de formación laboral? ",
 		"order": 5,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1245,10 +1245,10 @@
 		]
 	},
 	{
-		"special_id": "E6",
+		"id": "E6",
 		"statement": "¿Tiene carnet de conducir en vigor?",
 		"order": 6,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1264,10 +1264,10 @@
 		]
 	},
 	{
-		"special_id": "E7",
+		"id": "E7",
 		"statement": "¿Tiene coche propio?",
 		"order": 7,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1283,10 +1283,10 @@
 		]
 	},
 	{
-		"special_id": "E8",
+		"id": "E8",
 		"statement": "Actualmente, ¿le resulta difícil acudir al tratamiento, al trabajo/estudios, o encontrar trabajo por culpa del transporte?",
 		"order": 8,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1302,10 +1302,10 @@
 		]
 	},
 	{
-		"special_id": "E9",
+		"id": "E9",
 		"statement": "¿Lee/escribe (español) lo suficientemente bien como para rellenar una solicitud de empleo?",
 		"order": 9,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1321,10 +1321,10 @@
 		]
 	},
 	{
-		"special_id": "E10",
+		"id": "E10",
 		"statement": "¿Cuál es su situación laboral actual?",
 		"order": 10,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1350,10 +1350,10 @@
 		]
 	},
 	{
-		"special_id": "E11",
+		"id": "E11",
 		"statement": "¿Cuál describe mejor su situación actual?",
 		"order": 11,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1394,10 +1394,10 @@
 		]
 	},
 	{
-		"special_id": "E12",
+		"id": "E12",
 		"statement": "¿Qué tipo de trabajo realiza (empleo principal)?",
 		"order": 12,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1473,10 +1473,10 @@
 		]
 	},
 	{
-		"special_id": "E13",
+		"id": "E13",
 		"statement": "Ese trabajo, ¿es un empleo sumergido?",
 		"order": 13,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1492,10 +1492,10 @@
 		]
 	},
 	{
-		"special_id": "E14",
+		"id": "E14",
 		"statement": "¿Cuánto duró el periodo más largo de empleo a tiempo completo?",
 		"order": 14,
-		"type": "MNQ",
+		"question_type": "MNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1506,10 +1506,10 @@
 		]
 	},
 	{
-		"special_id": "E15",
+		"id": "E15",
 		"statement": "¿Hace cuánto que finalizó ese empleo?",
 		"order": 15,
-		"type": "MNQ",
+		"question_type": "MNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1520,10 +1520,10 @@
 		]
 	},
 	{
-		"special_id": "E16",
+		"id": "E16",
 		"statement": "¿Cuál era su empleo/ocupación entonces?",
 		"order": 16,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1599,10 +1599,10 @@
 		]
 	},
 	{
-		"special_id": "E17",
+		"id": "E17",
 		"statement": "En los últimos meses, ¿Cuántas semanas ha trabajado remuneradamente?",
 		"order": 17,
-		"type": "WNQ",
+		"question_type": "WNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1613,10 +1613,10 @@
 		]
 	},
 	{
-		"special_id": "E18",
+		"id": "E18",
 		"statement": "En los últimos meses, ¿Cuál era su sueldo bruto?",
 		"order": 18,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1627,10 +1627,10 @@
 		]
 	},
 	{
-		"special_id": "E19",
+		"id": "E19",
 		"statement": "En los últimos 30 días, ¿Cuántos días ha trabajado remuneradamente?",
 		"order": 19,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1641,10 +1641,10 @@
 		]
 	},
 	{
-		"special_id": "E20",
+		"id": "E20",
 		"statement": "En los últimos 30 días, ¿Cuál era su sueldo bruto?",
 		"order": 20,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1655,10 +1655,10 @@
 		]
 	},
 	{
-		"special_id": "E21",
+		"id": "E21",
 		"statement": "En los últimos 30 días,  ¿Cuántos días ha tenido problemas laborales?",
 		"order": 21,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1669,10 +1669,10 @@
 		]
 	},
 	{
-		"special_id": "E22",
+		"id": "E22",
 		"statement": "¿Ha solicitado algún empleo?",
 		"order": 22,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1688,10 +1688,10 @@
 		]
 	},
 	{
-		"special_id": "E23",
+		"id": "E23",
 		"statement": "¿Cuánta importancia tiene para usted ahora cualquier tipo de orientación laboral (como asesoramiento, formación o educación) que le ayude a encontrar un empleo o a solucionar los problemas relacionados con el trabajo?",
 		"order": 23,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1722,10 +1722,10 @@
 		]
 	},
 	{
-		"special_id": "E24",
+		"id": "E24",
 		"statement": "¿Vive en un alojamiento pagado por el gobierno o recibe algún tipo de subvención para la vivienda?",
 		"order": 24,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1741,10 +1741,10 @@
 		]
 	},
 	{
-		"special_id": "E25A",
+		"id": "E25A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de pensión, seguridad social o paro?",
 		"order": 25,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1755,10 +1755,10 @@
 		]
 	},
 	{
-		"special_id": "E25B",
+		"id": "E25B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de pensión, seguridad social o paro?",
 		"order": 26,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1769,10 +1769,10 @@
 		]
 	},
 	{
-		"special_id": "E26A",
+		"id": "E26A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de servicios sociales?",
 		"order": 27,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1783,10 +1783,10 @@
 		]
 	},
 	{
-		"special_id": "E26B",
+		"id": "E26B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de servicios sociales",
 		"order": 28,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1797,10 +1797,10 @@
 		]
 	},
 	{
-		"special_id": "E27A",
+		"id": "E27A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de otras ayudas institucionales?",
 		"order": 29,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1811,10 +1811,10 @@
 		]
 	},
 	{
-		"special_id": "E27B",
+		"id": "E27B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de otras ayudas institucionales?",
 		"order": 30,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1825,10 +1825,10 @@
 		]
 	},
 	{
-		"special_id": "E28A",
+		"id": "E28A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de pensión alimenticia y compensatoria?",
 		"order": 31,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1839,10 +1839,10 @@
 		]
 	},
 	{
-		"special_id": "E28B",
+		"id": "E28B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de pensión alimenticia y compensatoria?",
 		"order": 32,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1853,10 +1853,10 @@
 		]
 	},
 	{
-		"special_id": "E29A",
+		"id": "E29A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de actividades ilegales?",
 		"order": 33,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1867,10 +1867,10 @@
 		]
 	},
 	{
-		"special_id": "E29B",
+		"id": "E29B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de actividades ilegales?",
 		"order": 34,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1881,10 +1881,10 @@
 		]
 	},
 	{
-		"special_id": "E30A",
+		"id": "E30A",
 		"statement": "En los últimos 30 días, ¿Cuánto dinero ha recibido de cualquier otra fuente?",
 		"order": 35,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1895,10 +1895,10 @@
 		]
 	},
 	{
-		"special_id": "E30B",
+		"id": "E30B",
 		"statement": "En los últimos 6 meses, ¿Cuánto dinero ha recibido de cualquier otra fuente?",
 		"order": 36,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "EMP",
 		"options": [
 			{
@@ -1909,10 +1909,10 @@
 		]
 	},
 	{
-		"special_id": "E31",
+		"id": "E31",
 		"statement": "¿Cuáles son en la actualidad sus fuentes de ingresos para los gastos de vivienda, alimentación y otros gastos?",
 		"order": 37,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "EMP",
 		"options": [
 			{
@@ -1973,10 +1973,10 @@
 		]
 	},
 	{
-		"special_id": "E32",
+		"id": "E32",
 		"statement": "¿Alguna vez se ha declarado legalmente en bancarrota?",
 		"order": 38,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -1992,10 +1992,10 @@
 		]
 	},
 	{
-		"special_id": "E33",
+		"id": "E33",
 		"statement": "¿Alguna vez ha sido moroso en la devolución de un préstamo del Estado?",
 		"order": 39,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -2011,10 +2011,10 @@
 		]
 	},
 	{
-		"special_id": "E34",
+		"id": "E34",
 		"statement": "¿Lleva más de un mes de retraso en alguno de sus pagos habituales?",
 		"order": 40,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -2030,10 +2030,10 @@
 		]
 	},
 	{
-		"special_id": "E35",
+		"id": "E35",
 		"statement": "¿Cuántas personas (excluyéndose) dependen actualmente de usted económicamente?",
 		"order": 41,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -2044,10 +2044,10 @@
 		]
 	},
 	{
-		"special_id": "E36",
+		"id": "E36",
 		"statement": "¿Tiene suficientes ingresos para pagar sus necesidades básicas como vivienda, alimentación y vestido, y las de las personas a su cargo?",
 		"order": 42,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "EMP",
 		"options": [
 			{
@@ -2063,10 +2063,10 @@
 		]
 	},
 	{
-		"special_id": "D1",
+		"id": "D1",
 		"statement": "¿Cuántas veces ha estado en tratamiento por el uso de alcohol/drogas?",
 		"order": 1,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2077,10 +2077,10 @@
 		]
 	},
 	{
-		"special_id": "D2",
+		"id": "D2",
 		"statement": "¿Cuántos de esos tratamientos fueron sólo de desintoxicación?",
 		"order": 2,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2091,10 +2091,10 @@
 		]
 	},
 	{
-		"special_id": "D3",
+		"id": "D3",
 		"statement": "¿Qué edad tenía la primera vez que entró en un tratamiento para abuso de alcohol/drogas",
 		"order": 3,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2105,10 +2105,10 @@
 		]
 	},
 	{
-		"special_id": "D4A",
+		"id": "D4A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha acudido a un programa ambulatorio o a consulta(para tratamientos de alcohol/drogas)",
 		"order": 4,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2119,10 +2119,10 @@
 		]
 	},
 	{
-		"special_id": "D4B",
+		"id": "D4B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha acudido a un programa ambulatorio o a consulta(para tratamientos de alcohol/drogas)",
 		"order": 5,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2133,10 +2133,10 @@
 		]
 	},
 	{
-		"special_id": "D5A",
+		"id": "D5A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha tomado medicación prescrita para tratar su uso de alcohol/drogas?",
 		"order": 6,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2147,10 +2147,10 @@
 		]
 	},
 	{
-		"special_id": "D5B",
+		"id": "D5B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha tomado medicación prescrita para tratar su uso de alcohol/drogas?",
 		"order": 7,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2161,10 +2161,10 @@
 		]
 	},
 	{
-		"special_id": "D6A",
+		"id": "D6A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha acudido a grupos de autoayuda como AA, NA?",
 		"order": 8,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2175,10 +2175,10 @@
 		]
 	},
 	{
-		"special_id": "D6B",
+		"id": "D6B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha acudido a grupos de autoayuda como AA, NA?",
 		"order": 9,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2189,10 +2189,10 @@
 		]
 	},
 	{
-		"special_id": "D7",
+		"id": "D7",
 		"statement": "¿Cuánto duró el período de tiempo continuado más largo que estuvo acudiendo a grupos de autoayuda al menos 2 días por semana? ",
 		"order": 10,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2208,10 +2208,10 @@
 		]
 	},
 	{
-		"special_id": "D8",
+		"id": "D8",
 		"statement": "¿Cuántos años ha bebido alcohol de forma regular, 3 o más días a la semana? ",
 		"order": 11,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2222,10 +2222,10 @@
 		]
 	},
 	{
-		"special_id": "D9",
+		"id": "D9",
 		"statement": "¿Cuántos años ha bebido al menos (5-hombres, 4-muejeres) bebidas al día de forma regular, 3 o más días a la semana? ",
 		"order": 12,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2236,10 +2236,10 @@
 		]
 	},
 	{
-		"special_id": "D10",
+		"id": "D10",
 		"statement": "¿Ha bebido al menos (5-hombres. 4-mujeres) bebidas en un día, 50 o más días de su vida? ",
 		"order": 13,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2255,10 +2255,10 @@
 		]
 	},
 	{
-		"special_id": "D11",
+		"id": "D11",
 		"statement": "¿Qué edad tenía la primera vez que bebió alcohol y notó sus efectos? ",
 		"order": 14,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2269,10 +2269,10 @@
 		]
 	},
 	{
-		"special_id": "D12",
+		"id": "D12",
 		"statement": "En los últimos 6 meses, durante el mes que mas bebía, ¿con qué fecuencia bebía? ",
 		"order": 15,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -2303,10 +2303,10 @@
 		]
 	},
 	{
-		"special_id": "D13",
+		"id": "D13",
 		"statement": "En los últimos 30 días, ¿cuántos días ha bebido alcohol? ",
 		"order": 16,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2317,10 +2317,10 @@
 		]
 	},
 	{
-		"special_id": "D14",
+		"id": "D14",
 		"statement": "¿cuándo bebío por última vez? ",
 		"order": 17,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2331,10 +2331,10 @@
 		]
 	},
 	{
-		"special_id": "D15",
+		"id": "D15",
 		"statement": "En los últimos 30 días, ¿cuántos días ha tomado al menos (5-hombres, 4-mujeres) bebidas en un día? ",
 		"order": 18,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2345,10 +2345,10 @@
 		]
 	},
 	{
-		"special_id": "D16",
+		"id": "D16",
 		"statement": "En los últimos 30 días, ¿cuánto dinero ha gastado en alcohol para usted mismo? ",
 		"order": 19,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "DRU",
 		"options": [
 			{
@@ -2359,10 +2359,10 @@
 		]
 	},
 	{
-		"special_id": "D17",
+		"id": "D17",
 		"statement": "¿Ha experimentado síntomas de abstinencia (se ha sentido enfermo) tras disminuir el consumo o dejar de beber? ",
 		"order": 20,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2378,10 +2378,10 @@
 		]
 	},
 	{
-		"special_id": "D18",
+		"id": "D18",
 		"statement": "¿Ha tenido algún problema para controlar, disminuir o abstenerse de beber alcohol; o ha empleado la mayor parte del día bebiendo? ",
 		"order": 21,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2397,10 +2397,10 @@
 		]
 	},
 	{
-		"special_id": "D19",
+		"id": "D19",
 		"statement": "Debido a la bebida ¿Ha tenido problemas médicos o psicológicos; o en el trabajo (colegio) o en el hogar, o se ha visto envuelto en discusiones o problemas con la ley? ",
 		"order": 22,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2416,10 +2416,10 @@
 		]
 	},
 	{
-		"special_id": "D20",
+		"id": "D20",
 		"statement": "¿El ansia o los impulsos de beber han supuesto un problema para usted? ",
 		"order": 23,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2435,10 +2435,10 @@
 		]
 	},
 	{
-		"special_id": "D21",
+		"id": "D21",
 		"statement": "¿Cuántos días ha tenido estas u otras dificultades debido al consumo de alcohol? ",
 		"order": 24,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2449,10 +2449,10 @@
 		]
 	},
 	{
-		"special_id": "D22",
+		"id": "D22",
 		"statement": "En los últimos 30 días ¿Cuánta preocupación ha tenido por estos problemas relacionados con el alcohol? ",
 		"order": 25,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -2483,10 +2483,10 @@
 		]
 	},
 	{
-		"special_id": "D23",
+		"id": "D23",
 		"statement": "¿Cuánta importancia tiene ahora para usted el tratamiento (actual o adicional) para dejar de beber?",
 		"order": 26,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -2517,10 +2517,10 @@
 		]
 	},
 	{
-		"special_id": "D24",
+		"id": "D24",
 		"statement": "¿Cuánta importancia tiene para usted lograr/mantener la abstinencia total del alcohol (es decir, no beber nada)?",
 		"order": 27,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -2551,10 +2551,10 @@
 		]
 	},
 	{
-		"special_id": "D25A",
+		"id": "D25A",
 		"statement": "¿Qué edad tenía la primera vez que consumió marihuna?",
 		"order": 28,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2565,10 +2565,10 @@
 		]
 	},
 	{
-		"special_id": "D25B",
+		"id": "D25B",
 		"statement": "¿Cuántos años en su vida ha consumido marihuna?",
 		"order": 29,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2579,10 +2579,10 @@
 		]
 	},
 	{
-		"special_id": "D25C",
+		"id": "D25C",
 		"statement": "¿Ha consumido marihuana durante 50 o más días de su vida?",
 		"order": 30,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2598,10 +2598,10 @@
 		]
 	},
 	{
-		"special_id": "D25D",
+		"id": "D25D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió marihuana?",
 		"order": 31,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2612,10 +2612,10 @@
 		]
 	},
 	{
-		"special_id": "D25E",
+		"id": "D25E",
 		"statement": "En los últimos 30 días,¿consumió marihuana?",
 		"order": 32,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2631,10 +2631,10 @@
 		]
 	},
 	{
-		"special_id": "D26A",
+		"id": "D26A",
 		"statement": "¿Qué edad tenía la primera vez que consumió sedantes?",
 		"order": 33,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2645,10 +2645,10 @@
 		]
 	},
 	{
-		"special_id": "D26B",
+		"id": "D26B",
 		"statement": "¿Cuántos años en su vida ha consumido sedantes?",
 		"order": 34,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2659,10 +2659,10 @@
 		]
 	},
 	{
-		"special_id": "D26C",
+		"id": "D26C",
 		"statement": "¿Ha consumido sedantes durante 50 o más días de su vida?",
 		"order": 35,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2678,10 +2678,10 @@
 		]
 	},
 	{
-		"special_id": "D26D",
+		"id": "D26D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió sedantes?",
 		"order": 36,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2692,10 +2692,10 @@
 		]
 	},
 	{
-		"special_id": "D26E",
+		"id": "D26E",
 		"statement": "En los últimos 30 días,¿consumió sedantes?",
 		"order": 37,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2711,10 +2711,10 @@
 		]
 	},
 	{
-		"special_id": "D27A",
+		"id": "D27A",
 		"statement": "¿Qué edad tenía la primera vez que consumió cocaina?",
 		"order": 38,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2725,10 +2725,10 @@
 		]
 	},
 	{
-		"special_id": "D27B",
+		"id": "D27B",
 		"statement": "¿Cuántos años en su vida ha consumido cocaina?",
 		"order": 39,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2739,10 +2739,10 @@
 		]
 	},
 	{
-		"special_id": "D27C",
+		"id": "D27C",
 		"statement": "¿Ha consumido cocaina durante 50 o más días de su vida?",
 		"order": 40,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2758,10 +2758,10 @@
 		]
 	},
 	{
-		"special_id": "D27D",
+		"id": "D27D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió cocaina?",
 		"order": 41,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2772,10 +2772,10 @@
 		]
 	},
 	{
-		"special_id": "D28A",
+		"id": "D28A",
 		"statement": "¿Qué edad tenía la primera vez que consumió estimulantes?",
 		"order": 42,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2786,10 +2786,10 @@
 		]
 	},
 	{
-		"special_id": "D28B",
+		"id": "D28B",
 		"statement": "¿Cuántos años en su vida ha consumido estimulantes?",
 		"order": 43,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2800,10 +2800,10 @@
 		]
 	},
 	{
-		"special_id": "D28C",
+		"id": "D28C",
 		"statement": "¿Ha consumido estimulantes durante 50 o más días de su vida?",
 		"order": 44,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2819,10 +2819,10 @@
 		]
 	},
 	{
-		"special_id": "D28D",
+		"id": "D28D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió estimulantes?",
 		"order": 45,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2833,10 +2833,10 @@
 		]
 	},
 	{
-		"special_id": "D28E",
+		"id": "D28E",
 		"statement": "En los últimos 30 días,¿consumió estimulantes?",
 		"order": 46,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2852,10 +2852,10 @@
 		]
 	},
 	{
-		"special_id": "D29A",
+		"id": "D29A",
 		"statement": "¿Qué edad tenía la primera vez que consumió alucinógenos?",
 		"order": 47,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2866,10 +2866,10 @@
 		]
 	},
 	{
-		"special_id": "D29B",
+		"id": "D29B",
 		"statement": "¿Cuántos años en su vida ha consumido alucinógenos?",
 		"order": 48,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2880,10 +2880,10 @@
 		]
 	},
 	{
-		"special_id": "D29C",
+		"id": "D29C",
 		"statement": "¿Ha consumido alucinógenos durante 50 o más días de su vida?",
 		"order": 49,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2899,10 +2899,10 @@
 		]
 	},
 	{
-		"special_id": "D29D",
+		"id": "D29D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió alucinógenos?",
 		"order": 50,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2913,10 +2913,10 @@
 		]
 	},
 	{
-		"special_id": "D30A",
+		"id": "D30A",
 		"statement": "¿Qué edad tenía la primera vez que consumió heroína?",
 		"order": 51,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2927,10 +2927,10 @@
 		]
 	},
 	{
-		"special_id": "D30B",
+		"id": "D30B",
 		"statement": "¿Cuántos años en su vida ha consumido heroína?",
 		"order": 52,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2941,10 +2941,10 @@
 		]
 	},
 	{
-		"special_id": "D30C",
+		"id": "D30C",
 		"statement": "¿Ha consumido heroína durante 50 o más días de su vida?",
 		"order": 53,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2960,10 +2960,10 @@
 		]
 	},
 	{
-		"special_id": "D30D",
+		"id": "D30D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió heroína?",
 		"order": 54,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2974,10 +2974,10 @@
 		]
 	},
 	{
-		"special_id": "D31A",
+		"id": "D31A",
 		"statement": "¿Qué edad tenía la primera vez que consumió metadona?",
 		"order": 55,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -2988,10 +2988,10 @@
 		]
 	},
 	{
-		"special_id": "D31B",
+		"id": "D31B",
 		"statement": "¿Cuántos años en su vida ha consumido metadona?",
 		"order": 56,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3002,10 +3002,10 @@
 		]
 	},
 	{
-		"special_id": "D31C",
+		"id": "D31C",
 		"statement": "¿Ha consumido metadona durante 50 o más días de su vida?",
 		"order": 57,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3021,10 +3021,10 @@
 		]
 	},
 	{
-		"special_id": "D31D",
+		"id": "D31D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió metadona?",
 		"order": 58,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3035,10 +3035,10 @@
 		]
 	},
 	{
-		"special_id": "D31E",
+		"id": "D31E",
 		"statement": "En los últimos 30 días,¿consumió metadona?",
 		"order": 59,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3054,10 +3054,10 @@
 		]
 	},
 	{
-		"special_id": "D32A",
+		"id": "D32A",
 		"statement": "¿Qué edad tenía la primera vez que consumió otros opiáceos?",
 		"order": 60,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3068,10 +3068,10 @@
 		]
 	},
 	{
-		"special_id": "D32B",
+		"id": "D32B",
 		"statement": "¿Cuántos años en su vida ha consumido otros opiáceos?",
 		"order": 61,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3082,10 +3082,10 @@
 		]
 	},
 	{
-		"special_id": "D32C",
+		"id": "D32C",
 		"statement": "¿Ha consumido otros opiáceos durante 50 o más días de su vida?",
 		"order": 62,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3101,10 +3101,10 @@
 		]
 	},
 	{
-		"special_id": "D32D",
+		"id": "D32D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió otros opiáceos?",
 		"order": 63,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3115,10 +3115,10 @@
 		]
 	},
 	{
-		"special_id": "D32E",
+		"id": "D32E",
 		"statement": "En los últimos 30 días,¿consumió otros opiáceos?",
 		"order": 64,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3134,10 +3134,10 @@
 		]
 	},
 	{
-		"special_id": "D33A",
+		"id": "D33A",
 		"statement": "¿Qué edad tenía la primera vez que consumió inhalantes",
 		"order": 65,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3148,10 +3148,10 @@
 		]
 	},
 	{
-		"special_id": "D33B",
+		"id": "D33B",
 		"statement": "¿Cuántos años en su vida ha consumido inhalantes?",
 		"order": 66,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3162,10 +3162,10 @@
 		]
 	},
 	{
-		"special_id": "D33C",
+		"id": "D33C",
 		"statement": "¿Ha consumido inhalantes durante 50 o más días de su vida?",
 		"order": 67,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3181,10 +3181,10 @@
 		]
 	},
 	{
-		"special_id": "D33D",
+		"id": "D33D",
 		"statement": "En los últimos 30 días,¿cuántos días consumió inhalantes?",
 		"order": 68,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3195,10 +3195,10 @@
 		]
 	},
 	{
-		"special_id": "D33E",
+		"id": "D33E",
 		"statement": "En los últimos 30 días,¿consumió inhalantes?",
 		"order": 69,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -3214,10 +3214,10 @@
 		]
 	},
 	{
-		"special_id": "P21",
+		"id": "P21",
 		"statement": "¿Cuánta importancia tiene ahora para usted el tratamiento (actual o adicional) para sus problemas psicológicos?",
 		"order": 36,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3248,10 +3248,10 @@
 		]
 	},
 	{
-		"special_id": "P20",
+		"id": "P20",
 		"statement": "¿Cuánta molestia o preocupación ha tenido por estos problemas psicológicos o emocionales?",
 		"order": 35,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3282,10 +3282,10 @@
 		]
 	},
 	{
-		"special_id": "P19",
+		"id": "P19",
 		"statement": "¿Cuántos días ha sido incapaz de realizar sus actividades normales debido a problemas o síntomas psicológicos/emocionales?",
 		"order": 34,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3296,10 +3296,10 @@
 		]
 	},
 	{
-		"special_id": "P18",
+		"id": "P18",
 		"statement": "¿Cuántos días ha experimentado estos problemas emocionales o psicológicos?",
 		"order": 33,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3310,10 +3310,10 @@
 		]
 	},
 	{
-		"special_id": "P17B",
+		"id": "P17B",
 		"statement": "En los últimos 30 días ¿Ha experimentado otros problemas emocionales o psicológicos no mencionados anteriormente? (Especifique en los comentarios)",
 		"order": 32,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3334,10 +3334,10 @@
 		]
 	},
 	{
-		"special_id": "P16A",
+		"id": "P16A",
 		"statement": "A lo largo de su vida ¿Ha intentado suicidarse?",
 		"order": 29,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3358,10 +3358,10 @@
 		]
 	},
 	{
-		"special_id": "P16B",
+		"id": "P16B",
 		"statement": "En los últimos 30 días ¿Ha intentado suicidarse?",
 		"order": 30,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3382,10 +3382,10 @@
 		]
 	},
 	{
-		"special_id": "P16C",
+		"id": "P16C",
 		"statement": "Hace cuántos días por última vez ha intentado suicidarse?",
 		"order": 31,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3396,10 +3396,10 @@
 		]
 	},
 	{
-		"special_id": "P15A",
+		"id": "P15A",
 		"statement": "A lo largo de su vida ¿Ha pensado seriamente en suicidarse?",
 		"order": 26,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3420,10 +3420,10 @@
 		]
 	},
 	{
-		"special_id": "P15B",
+		"id": "P15B",
 		"statement": "En los últimos 30 días ¿Ha pensado seriamente en suicidarse?",
 		"order": 27,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3444,10 +3444,10 @@
 		]
 	},
 	{
-		"special_id": "P15C",
+		"id": "P15C",
 		"statement": "¿Hace cuántos días por última vez ha pensado seriamente en suicidarse?",
 		"order": 28,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3458,10 +3458,10 @@
 		]
 	},
 	{
-		"special_id": "P14A",
+		"id": "P14A",
 		"statement": "Desde que cumplió los 18 años ¿Ha empujado, golpeado o tirado objetos a alguien o utilizado un arma contra alguien?",
 		"order": 23,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3482,10 +3482,10 @@
 		]
 	},
 	{
-		"special_id": "P14B",
+		"id": "P14B",
 		"statement": "Desde que cumplió los 18 años y en los últimos 30 días ¿Ha empujado, golpeado o tirado objetos a alguien o utilizado un arma contra alguien?",
 		"order": 24,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3506,10 +3506,10 @@
 		]
 	},
 	{
-		"special_id": "P14C",
+		"id": "P14C",
 		"statement": "¿Hace cuántos días por última vez ha empujado, golpeado o tirado objetos a alguien o utilizado un arma contra alguien?",
 		"order": 25,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3520,10 +3520,10 @@
 		]
 	},
 	{
-		"special_id": "P13A",
+		"id": "P13A",
 		"statement": "Desde que cumplió los 18 años ¿Ha tenido dificultad para controlar su caracter o implulsos de pegar o hacer daño a alguien?",
 		"order": 20,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3544,10 +3544,10 @@
 		]
 	},
 	{
-		"special_id": "P13B",
+		"id": "P13B",
 		"statement": "Desde que cumplió los 18 años, y en los últimos 30 días ¿Ha tenido dificultad para controlar su caracter o implulsos de pegar o hacer daño a alguien?",
 		"order": 21,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3568,10 +3568,10 @@
 		]
 	},
 	{
-		"special_id": "P13C",
+		"id": "P13C",
 		"statement": "Hace cuántos días ha tenido dificultad para controlar su caracter o implulsos de pegar o hacer daño a alguien?",
 		"order": 22,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3582,10 +3582,10 @@
 		]
 	},
 	{
-		"special_id": "P12A",
+		"id": "P12A",
 		"statement": "A lo largo de su vida ¿Ha tenido dificultad para pensar, concentrarse, comprender o recordar hasta el punto de causarle problemas?",
 		"order": 18,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3606,10 +3606,10 @@
 		]
 	},
 	{
-		"special_id": "P12B",
+		"id": "P12B",
 		"statement": "En los últimos 30 días ¿Ha tenido dificultad para pensar, concentrarse, comprender o recordar hasta el punto de causarle problemas?",
 		"order": 19,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3630,10 +3630,10 @@
 		]
 	},
 	{
-		"special_id": "P11A",
+		"id": "P11A",
 		"statement": "A lo largo de su vida ¿Ha tenido alucinaciones?",
 		"order": 15,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3654,10 +3654,10 @@
 		]
 	},
 	{
-		"special_id": "P11B",
+		"id": "P11B",
 		"statement": "En los últimos 30 días ¿Ha tenido alucinaciones?",
 		"order": 16,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3678,10 +3678,10 @@
 		]
 	},
 	{
-		"special_id": "P11C",
+		"id": "P11C",
 		"statement": "¿Hace cuántos días por última vez tuvo alucinaciones?",
 		"order": 17,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3692,10 +3692,10 @@
 		]
 	},
 	{
-		"special_id": "P10A",
+		"id": "P10A",
 		"statement": "A lo largo de su vida ¿Se ha sentido ansioso, nervioso o preocupado la mayor parte del día (Casi cada día durante al menos 2 semanas seguidas)?",
 		"order": 13,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3716,10 +3716,10 @@
 		]
 	},
 	{
-		"special_id": "P10B",
+		"id": "P10B",
 		"statement": "En los últimos 30 días ¿Se ha sentido ansioso, nervioso o preocupado la mayor parte del día (Casi cada día durante al menos 2 semanas seguidas)?",
 		"order": 14,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3740,10 +3740,10 @@
 		]
 	},
 	{
-		"special_id": "P9A",
+		"id": "P9A",
 		"statement": "A lo largo de su vida ¿Se ha sentido deprimido o bajo de ánimo la mayor parte del día (Casi cada día durante al menos 2 semanas seguidas)?",
 		"order": 11,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3764,10 +3764,10 @@
 		]
 	},
 	{
-		"special_id": "P9B",
+		"id": "P9B",
 		"statement": "En los últimos 30 días ¿Se ha sentido deprimido o bajo de ánimo la mayor parte del día (Casi cada día durante al menos 2 semanas seguidas)?",
 		"order": 12,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3788,10 +3788,10 @@
 		]
 	},
 	{
-		"special_id": "P8B",
+		"id": "P8B",
 		"statement": "En los últimos 30 días ¿Ha tenido problemas para dormirse, permanecer dormido o despertarse demasiado temprano?",
 		"order": 10,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3812,10 +3812,10 @@
 		]
 	},
 	{
-		"special_id": "P7",
+		"id": "P7",
 		"statement": "¿Actualmente recibe una pensión por discapacidad psicológica?",
 		"order": 9,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3831,10 +3831,10 @@
 		]
 	},
 	{
-		"special_id": "P6",
+		"id": "P6",
 		"statement": "¿Qué edad tenía la primera vez que recibió un tratamiento o fue evaluado por problemas emocionales o psicológicos?",
 		"order": 8,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3845,10 +3845,10 @@
 		]
 	},
 	{
-		"special_id": "P5A",
+		"id": "P5A",
 		"statement": "En los últimos 6 meses ¿Cuántas consultas ambulatorias ha tenido?",
 		"order": 6,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3859,10 +3859,10 @@
 		]
 	},
 	{
-		"special_id": "P5B",
+		"id": "P5B",
 		"statement": "En los últimos 30 días ¿Cuántas consultas ambulatorias ha tenido?",
 		"order": 7,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3873,10 +3873,10 @@
 		]
 	},
 	{
-		"special_id": "P4",
+		"id": "P4",
 		"statement": "En su vida ¿A cuántas consultas ambulatorias ha acudido problemas emocionales/psicológicos?",
 		"order": 5,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "PSY",
 		"options": [
 			{
@@ -3907,10 +3907,10 @@
 		]
 	},
 	{
-		"special_id": "P3A",
+		"id": "P3A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha tomado medicación para tratar problemas emocionales o psicológicos?",
 		"order": 3,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3921,10 +3921,10 @@
 		]
 	},
 	{
-		"special_id": "P3B",
+		"id": "P3B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha tomado medicación para tratar problemas emocionales o psicológicos?",
 		"order": 4,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3935,10 +3935,10 @@
 		]
 	},
 	{
-		"special_id": "P2",
+		"id": "P2",
 		"statement": "En su vida ¿Alguna vez le han prescrito fármacos para tratar problemas emocionales o psicológicos?",
 		"order": 2,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3954,10 +3954,10 @@
 		]
 	},
 	{
-		"special_id": "P1",
+		"id": "P1",
 		"statement": "En su vida ¿Cuántas veces ha estado hospitalizado debido a problemas emocionales o psicológicos?",
 		"order": 1,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "PSY",
 		"options": [
 			{
@@ -3968,10 +3968,10 @@
 		]
 	},
 	{
-		"special_id": "F54",
+		"id": "F54",
 		"statement": "¿Actualmente se halla envuelto en un caso de custodia o está siendo investigado o tutelado por los servicios de protección del menor?",
 		"order": 68,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -3987,10 +3987,10 @@
 		]
 	},
 	{
-		"special_id": "F53",
+		"id": "F53",
 		"statement": "¿Alguna vez le han quitado la patria potestad?",
 		"order": 67,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4006,10 +4006,10 @@
 		]
 	},
 	{
-		"special_id": "F52",
+		"id": "F52",
 		"statement": "¿Alguna vez los servicios de protección al menor se han llevado a alguno de sus hijos del domicilio familiar?",
 		"order": 66,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4025,10 +4025,10 @@
 		]
 	},
 	{
-		"special_id": "F51",
+		"id": "F51",
 		"statement": "¿Alguna vez ha sido investigado o ha estado tutelado por los servicios de protección del menor?",
 		"order": 65,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4044,10 +4044,10 @@
 		]
 	},
 	{
-		"special_id": "F50",
+		"id": "F50",
 		"statement": "Actualmente ¿Necesita ayuda adicional en el cuidado de los niños para que usted pueda acudir al tratamiento de su abuso de sustancias, al trabajo/estudios o a buscar trabajo?",
 		"order": 64,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4063,10 +4063,10 @@
 		]
 	},
 	{
-		"special_id": "F49",
+		"id": "F49",
 		"statement": "¿Cuánta importancia tiene ahora para usted el asesoramiento (p.e claves de padres) para ayudarle en la relación con estos niños? (menores de 18)",
 		"order": 63,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4097,10 +4097,10 @@
 		]
 	},
 	{
-		"special_id": "F48",
+		"id": "F48",
 		"statement": "En los últimos 30 días ¿Cuánta dificultad ha tenido en la relación con los niños que han vivido con usted al menos un tiempo?",
 		"order": 62,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4131,10 +4131,10 @@
 		]
 	},
 	{
-		"special_id": "F47",
+		"id": "F47",
 		"statement": "Actualmente ¿Cuánta necesidad tiene de servicios para tratar estos problemas de los niños?",
 		"order": 61,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4165,10 +4165,10 @@
 		]
 	},
 	{
-		"special_id": "F46",
+		"id": "F46",
 		"statement": "¿Cuántos de los niños (que han vivido con usted) tienen un problema médico, de conducta o de aprendizaje grave y requieren cuidados, tratamiento o servicios especializados?",
 		"order": 60,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4179,10 +4179,10 @@
 		]
 	},
 	{
-		"special_id": "F45",
+		"id": "F45",
 		"statement": "En los últimos 30 días ¿Algún niño (nietos, sobrinos, etc) menos de 18 años ha vivido con usted al menos un tiempo?",
 		"order": 59,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4198,10 +4198,10 @@
 		]
 	},
 	{
-		"special_id": "F44",
+		"id": "F44",
 		"statement": "En los últimos 30 días ¿Cuántos de sus hijos (menores de 18 años) han vivido con usted al menos un tiempo?",
 		"order": 58,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4212,10 +4212,10 @@
 		]
 	},
 	{
-		"special_id": "F43",
+		"id": "F43",
 		"statement": "¿Cuántos de sus hijos se hayan actualmente en régimen de acogimiento por orden judicial?",
 		"order": 57,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4226,10 +4226,10 @@
 		]
 	},
 	{
-		"special_id": "F42",
+		"id": "F42",
 		"statement": "¿Tiene algún proceso de custodia abierto con la madre, padre o cualquier otro familiar?",
 		"order": 56,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4245,10 +4245,10 @@
 		]
 	},
 	{
-		"special_id": "F41",
+		"id": "F41",
 		"statement": "¿Qué edades tienen sus hijos vivos, comenzando por el mayor?",
 		"order": 55,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4304,10 +4304,10 @@
 		]
 	},
 	{
-		"special_id": "F40",
+		"id": "F40",
 		"statement": "¿Cuántos hijos ha tenido o ha adoptado?",
 		"order": 54,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4318,10 +4318,10 @@
 		]
 	},
 	{
-		"special_id": "F39",
+		"id": "F39",
 		"statement": "¿Cuánta importante tiene ahora para usted el tratamiento o asesoramiento (actual o adicional) para los sentimientos, pensamientos u otras reacciones relacionadas con estos sucesos?",
 		"order": 53,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4352,10 +4352,10 @@
 		]
 	},
 	{
-		"special_id": "F38",
+		"id": "F38",
 		"statement": "En los últimos 30 días ¿Cuánta molestia o preocupación ha tenido por sentimientos, pensamientos u otras reacciones relacionadas con estos acontecimientos?",
 		"order": 52,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4386,10 +4386,10 @@
 		]
 	},
 	{
-		"special_id": "F37",
+		"id": "F37",
 		"statement": "¿Cuándo sucedió por última vez?",
 		"order": 51,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4405,10 +4405,10 @@
 		]
 	},
 	{
-		"special_id": "F36",
+		"id": "F36",
 		"statement": "¿Qué edad tenía la primera vez que sucedió?",
 		"order": 50,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4419,10 +4419,10 @@
 		]
 	},
 	{
-		"special_id": "F35",
+		"id": "F35",
 		"statement": "¿Alguna vez ha visto cómo mataban, atracaban, agredían o herían gravemente a alguien?",
 		"order": 49,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4438,10 +4438,10 @@
 		]
 	},
 	{
-		"special_id": "F34",
+		"id": "F34",
 		"statement": "¿Cuándo sucedió por última vez?",
 		"order": 48,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4457,10 +4457,10 @@
 		]
 	},
 	{
-		"special_id": "F33",
+		"id": "F33",
 		"statement": "¿Qué edad tenía la primera vez que sucedió?",
 		"order": 47,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4471,10 +4471,10 @@
 		]
 	},
 	{
-		"special_id": "F32",
+		"id": "F32",
 		"statement": "¿Alguna vez ha estado envuelto en cualquier otra situación amenazante para su vida?",
 		"order": 46,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4490,10 +4490,10 @@
 		]
 	},
 	{
-		"special_id": "F31",
+		"id": "F31",
 		"statement": "¿Cuándo sucedió por última vez?",
 		"order": 45,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4509,10 +4509,10 @@
 		]
 	},
 	{
-		"special_id": "F30",
+		"id": "F30",
 		"statement": "¿Qué edad tenía la primera vez que sucedió?",
 		"order": 44,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4523,10 +4523,10 @@
 		]
 	},
 	{
-		"special_id": "F29",
+		"id": "F29",
 		"statement": "¿Alguna vez ha sido víctima de un crimen violento como un atraco o agresión?",
 		"order": 43,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4542,10 +4542,10 @@
 		]
 	},
 	{
-		"special_id": "F28",
+		"id": "F28",
 		"statement": "¿Cuándo sucedió por última vez?",
 		"order": 42,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4561,10 +4561,10 @@
 		]
 	},
 	{
-		"special_id": "F27",
+		"id": "F27",
 		"statement": "¿Qué edad tenía la primera vez que sucedió?",
 		"order": 41,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4575,10 +4575,10 @@
 		]
 	},
 	{
-		"special_id": "F26",
+		"id": "F26",
 		"statement": "¿Alguna vez un conocido le ha agresido o ha abusado de usted sexualmente?",
 		"order": 40,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4594,10 +4594,10 @@
 		]
 	},
 	{
-		"special_id": "F25",
+		"id": "F25",
 		"statement": "¿Cuándo sucedió por última vez?",
 		"order": 39,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4613,10 +4613,10 @@
 		]
 	},
 	{
-		"special_id": "F24",
+		"id": "F24",
 		"statement": "¿Qué edad tenía la primera vez que sucedió?",
 		"order": 38,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4627,10 +4627,10 @@
 		]
 	},
 	{
-		"special_id": "F23",
+		"id": "F23",
 		"statement": "¿Alguna vez algún conocido le ha agredido o ha abusado de usted físicamente?",
 		"order": 37,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4646,10 +4646,10 @@
 		]
 	},
 	{
-		"special_id": "F22",
+		"id": "F22",
 		"statement": "¿Cuánta satisfacción le ha producido su forma de emplear el tiempo libre?",
 		"order": 36,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4680,10 +4680,10 @@
 		]
 	},
 	{
-		"special_id": "F21",
+		"id": "F21",
 		"statement": "¿A menudo, ha estado aburrido o ha tenido dificultades para pasar simplemente el rato?",
 		"order": 35,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4699,10 +4699,10 @@
 		]
 	},
 	{
-		"special_id": "F20",
+		"id": "F20",
 		"statement": "¿Ha realizado algún trabajo voluntariado?",
 		"order": 34,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4718,10 +4718,10 @@
 		]
 	},
 	{
-		"special_id": "F19",
+		"id": "F19",
 		"statement": "¿Ha acudido a servicios religiosos o a actividades promovidas por su comunidad religiosa?",
 		"order": 33,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4737,10 +4737,10 @@
 		]
 	},
 	{
-		"special_id": "F18",
+		"id": "F18",
 		"statement": "¿Es importante para usted tener relaciones cercanas con alguien?",
 		"order": 32,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4756,10 +4756,10 @@
 		]
 	},
 	{
-		"special_id": "F17",
+		"id": "F17",
 		"statement": "¿Se siente nervioso o incómodo cuando está con otras personas?",
 		"order": 31,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4775,10 +4775,10 @@
 		]
 	},
 	{
-		"special_id": "F16",
+		"id": "F16",
 		"statement": "¿Le resulta difícil hablar de sus sentimientos o problemas incluso con las personas más cercanas?",
 		"order": 30,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4794,10 +4794,10 @@
 		]
 	},
 	{
-		"special_id": "F15",
+		"id": "F15",
 		"statement": "¿Cuánta importancia tiene ahora para usted el tratamiento o asesoramiento (actual o adicional) para sus problemas de relación con otros adultos?",
 		"order": 29,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4828,10 +4828,10 @@
 		]
 	},
 	{
-		"special_id": "F14",
+		"id": "F14",
 		"statement": "En los últimos 30 días ¿Cuánta preocupación ha tenido debido a problemas en sus relaciones con otros adultos?",
 		"order": 28,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4862,10 +4862,10 @@
 		]
 	},
 	{
-		"special_id": "F13",
+		"id": "F13",
 		"statement": "En global en los últimos 30 días ¿Cuánta satisfacción le han proporcionado sus relaciones con otros adultos?",
 		"order": 27,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "FAM",
 		"options": [
 			{
@@ -4896,10 +4896,10 @@
 		]
 	},
 	{
-		"special_id": "F12",
+		"id": "F12",
 		"statement": "Aparte de su pareja, familiares adultos y amigos íntimos ¿Hay otras personas con las que realmente puede contar si necesita ayuda?",
 		"order": 26,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4915,10 +4915,10 @@
 		]
 	},
 	{
-		"special_id": "F11",
+		"id": "F11",
 		"statement": "En los últimos 30 días ¿Alguna de las relaciones con su pareja, parientes o amigos acabó en empujones/golpes, o arrojando objetos?",
 		"order": 25,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4934,10 +4934,10 @@
 		]
 	},
 	{
-		"special_id": "F10",
+		"id": "F10",
 		"statement": "¿Tiene actualmente una orden de alejamiento de alguna persona?",
 		"order": 24,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4953,10 +4953,10 @@
 		]
 	},
 	{
-		"special_id": "F9A",
+		"id": "F9A",
 		"statement": "En los últimos 30 días. Si necesita ayuda ¿Puede contar con su pareja?",
 		"order": 21,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4972,10 +4972,10 @@
 		]
 	},
 	{
-		"special_id": "F9B",
+		"id": "F9B",
 		"statement": "En los últimos 30 días. Si necesita ayuda ¿Puede contar con familiares adultos?",
 		"order": 22,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -4991,10 +4991,10 @@
 		]
 	},
 	{
-		"special_id": "F9C",
+		"id": "F9C",
 		"statement": "En los últimos 30 días. Si necesita ayuda ¿Puede contar con amigos íntimos?",
 		"order": 23,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5010,10 +5010,10 @@
 		]
 	},
 	{
-		"special_id": "F8A",
+		"id": "F8A",
 		"statement": "En los últimos 30 días. Tiene su pareja algún problema con alcohol o las drogas actualmente?",
 		"order": 18,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5029,10 +5029,10 @@
 		]
 	},
 	{
-		"special_id": "F8B",
+		"id": "F8B",
 		"statement": "¿En los últimos 30 días. Tienen sus familiares adultos algún problema con el alcohol o las drogas actualmente?",
 		"order": 19,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5048,10 +5048,10 @@
 		]
 	},
 	{
-		"special_id": "F8C",
+		"id": "F8C",
 		"statement": "¿En los últimos 30 días. Tienen sus amigos íntimos algún problema con el alcohol o las drogas actualmente?",
 		"order": 20,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5067,10 +5067,10 @@
 		]
 	},
 	{
-		"special_id": "F7A",
+		"id": "F7A",
 		"statement": "En los últimos 30 días ¿Ha tenido discusiones con su pareja?",
 		"order": 15,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5086,10 +5086,10 @@
 		]
 	},
 	{
-		"special_id": "F7B",
+		"id": "F7B",
 		"statement": "En los últimos 30 días ¿Ha tenido discusiones con familiares adultos?",
 		"order": 16,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5105,10 +5105,10 @@
 		]
 	},
 	{
-		"special_id": "F7C",
+		"id": "F7C",
 		"statement": "En los últimos 30 días ¿Ha tenido discusiones con amigos íntimos?",
 		"order": 17,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5124,10 +5124,10 @@
 		]
 	},
 	{
-		"special_id": "F6A",
+		"id": "F6A",
 		"statement": "En los últimos 30 días ¿Ha tenido problemas de relación con su pareja?",
 		"order": 12,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5143,10 +5143,10 @@
 		]
 	},
 	{
-		"special_id": "F6B",
+		"id": "F6B",
 		"statement": "En los últimos 30 días ¿Ha tenido problemas de relación con familiares adultos?",
 		"order": 13,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5162,10 +5162,10 @@
 		]
 	},
 	{
-		"special_id": "F6C",
+		"id": "F6C",
 		"statement": "En los últimos 30 días ¿Ha tenido problemas de relación con sus amigos íntimos?",
 		"order": 14,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5181,10 +5181,10 @@
 		]
 	},
 	{
-		"special_id": "F5A",
+		"id": "F5A",
 		"statement": "En los últimos 30 días ¿Ha hablado con su pareja sobre sentimientos o problemas?",
 		"order": 9,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5200,10 +5200,10 @@
 		]
 	},
 	{
-		"special_id": "F5B",
+		"id": "F5B",
 		"statement": "En los últimos 30 días ¿Ha hablado con familiares adultos sobre sentimientos o problemas?",
 		"order": 10,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5219,10 +5219,10 @@
 		]
 	},
 	{
-		"special_id": "F5C",
+		"id": "F5C",
 		"statement": "En los últimos 30 días ¿Ha hablado con amigos íntimos sobre sentimientos o problemas?",
 		"order": 11,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5238,10 +5238,10 @@
 		]
 	},
 	{
-		"special_id": "F4A",
+		"id": "F4A",
 		"statement": "En los últimos 30 días ¿Ha tenido algún contacto como llamadas telefónicas con su pareja?",
 		"order": 6,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5257,10 +5257,10 @@
 		]
 	},
 	{
-		"special_id": "F4B",
+		"id": "F4B",
 		"statement": "En los últimos 30 días ¿Ha tenido algún contacto como llamadas telefónicas con familiares adultos?",
 		"order": 7,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5276,10 +5276,10 @@
 		]
 	},
 	{
-		"special_id": "F4C",
+		"id": "F4C",
 		"statement": "En los últimos 30 días ¿Ha tenido algún contacto como llamadas telefónicas con sus amigos íntimos?",
 		"order": 8,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5295,10 +5295,10 @@
 		]
 	},
 	{
-		"special_id": "F3A",
+		"id": "F3A",
 		"statement": "En los últimos 30 días ¿Ha pasado tiempo (en persona) con su pareja?",
 		"order": 3,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5314,10 +5314,10 @@
 		]
 	},
 	{
-		"special_id": "F3B",
+		"id": "F3B",
 		"statement": "En los últimos 30 días ¿Ha pasado tiempo (en persona) con cualquier familiar adulto?",
 		"order": 4,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5333,10 +5333,10 @@
 		]
 	},
 	{
-		"special_id": "F3C",
+		"id": "F3C",
 		"statement": "En los últimos 30 días ¿Ha pasado tiempo (en persona) con cualquier amigo íntimo?",
 		"order": 5,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5352,10 +5352,10 @@
 		]
 	},
 	{
-		"special_id": "F2",
+		"id": "F2",
 		"statement": "¿Cuántos amigos íntimos tiene?",
 		"order": 2,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5366,10 +5366,10 @@
 		]
 	},
 	{
-		"special_id": "F1",
+		"id": "F1",
 		"statement": "¿Ha mantenido alguna relación romántica o sexual con una pareja en el último mes?",
 		"order": 1,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "FAM",
 		"options": [
 			{
@@ -5385,10 +5385,10 @@
 		]
 	},
 	{
-		"special_id": "L32A",
+		"id": "L32A",
 		"statement": "En los últimos 6 meses ¿Cuántos días en total ha conducido bajo los efectos del alcohol o drogas?",
 		"order": 64,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5399,10 +5399,10 @@
 		]
 	},
 	{
-		"special_id": "L32B",
+		"id": "L32B",
 		"statement": "En los últimos 30 días ¿Cuántos días en total ha conducido bajo los efectos del alcohol o drogas?",
 		"order": 65,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5413,10 +5413,10 @@
 		]
 	},
 	{
-		"special_id": "L31",
+		"id": "L31",
 		"statement": "En los últimos 30 días ¿Cuántos días ha estado involucrado en alguno de los delitos anteriores?",
 		"order": 63,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5427,10 +5427,10 @@
 		]
 	},
 	{
-		"special_id": "L30E",
+		"id": "L30E",
 		"statement": "¿En los últimos 6 meses ¿Cuántos días ha realizado juego ilegal?",
 		"order": 62,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5441,10 +5441,10 @@
 		]
 	},
 	{
-		"special_id": "L30D",
+		"id": "L30D",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado prostitución/proxenetismo?",
 		"order": 61,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5455,10 +5455,10 @@
 		]
 	},
 	{
-		"special_id": "L30C",
+		"id": "L30C",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha poseído armas de manera ilícita?",
 		"order": 60,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5469,10 +5469,10 @@
 		]
 	},
 	{
-		"special_id": "L30A",
+		"id": "L30A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha cometido algún otro acto ilegal?",
 		"order": 58,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5483,10 +5483,10 @@
 		]
 	},
 	{
-		"special_id": "L30B",
+		"id": "L30B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha cometido algún otro acto ilegal?",
 		"order": 59,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5497,10 +5497,10 @@
 		]
 	},
 	{
-		"special_id": "L29H",
+		"id": "L29H",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha cometido otro tipo de delitos?",
 		"order": 57,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5511,10 +5511,10 @@
 		]
 	},
 	{
-		"special_id": "L29G",
+		"id": "L29G",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado homicidio?",
 		"order": 56,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5525,10 +5525,10 @@
 		]
 	},
 	{
-		"special_id": "L29F",
+		"id": "L29F",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado agresión sexual?",
 		"order": 55,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5539,10 +5539,10 @@
 		]
 	},
 	{
-		"special_id": "L29E",
+		"id": "L29E",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado agresión sin arma",
 		"order": 54,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5553,10 +5553,10 @@
 		]
 	},
 	{
-		"special_id": "L29D",
+		"id": "L29D",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado agresión con arma?",
 		"order": 53,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5567,10 +5567,10 @@
 		]
 	},
 	{
-		"special_id": "L29C",
+		"id": "L29C",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado amenaza sin agresión física?",
 		"order": 52,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5581,10 +5581,10 @@
 		]
 	},
 	{
-		"special_id": "L29A",
+		"id": "L29A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha amenazado o agredido a alguien?",
 		"order": 50,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5595,10 +5595,10 @@
 		]
 	},
 	{
-		"special_id": "L29B",
+		"id": "L29B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha amenazado o agredido a alguien?",
 		"order": 51,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5609,10 +5609,10 @@
 		]
 	},
 	{
-		"special_id": "L28J",
+		"id": "L28J",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado otros delitos de robo/contra la propiedad?",
 		"order": 49,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5623,10 +5623,10 @@
 		]
 	},
 	{
-		"special_id": "L28I",
+		"id": "L28I",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha provocado incendios?",
 		"order": 48,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5637,10 +5637,10 @@
 		]
 	},
 	{
-		"special_id": "L28H",
+		"id": "L28H",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado vandalismo?",
 		"order": 47,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5651,10 +5651,10 @@
 		]
 	},
 	{
-		"special_id": "L28G",
+		"id": "L28G",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado fraude?",
 		"order": 46,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5665,10 +5665,10 @@
 		]
 	},
 	{
-		"special_id": "L28F",
+		"id": "L28F",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado falsificación?",
 		"order": 45,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5679,10 +5679,10 @@
 		]
 	},
 	{
-		"special_id": "L28E",
+		"id": "L28E",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado robo de vehículos?",
 		"order": 44,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5693,10 +5693,10 @@
 		]
 	},
 	{
-		"special_id": "L28D",
+		"id": "L28D",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado robos/allanamiento?",
 		"order": 43,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5707,10 +5707,10 @@
 		]
 	},
 	{
-		"special_id": "L28C",
+		"id": "L28C",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha realizado robos a tiendas?",
 		"order": 42,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5721,10 +5721,10 @@
 		]
 	},
 	{
-		"special_id": "L28A",
+		"id": "L28A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha robado algo, vendido objetos robados, falsificado recetas o cheques, destruido propiedades o provocado incendios?",
 		"order": 40,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5735,10 +5735,10 @@
 		]
 	},
 	{
-		"special_id": "L28B",
+		"id": "L28B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha robado algo, vendido objetos robados, falsificado recetas o cheques, destruido propiedades o provocado incendios?",
 		"order": 41,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5749,10 +5749,10 @@
 		]
 	},
 	{
-		"special_id": "L27A",
+		"id": "L27A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha robado a alguien?",
 		"order": 36,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5763,10 +5763,10 @@
 		]
 	},
 	{
-		"special_id": "L27B",
+		"id": "L27B",
 		"statement": "En los úlimos 30 días ¿Cuántos días ha robado a alguien?",
 		"order": 37,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5777,10 +5777,10 @@
 		]
 	},
 	{
-		"special_id": "L26A",
+		"id": "L26A",
 		"statement": "En los últimos 6 meses ¿Cuántos días ha vendido o fabricado drogas?",
 		"order": 34,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5791,10 +5791,10 @@
 		]
 	},
 	{
-		"special_id": "L26B",
+		"id": "L26B",
 		"statement": "En los últimos 30 días ¿Cuántos días ha vendido o fabricado drogas?",
 		"order": 35,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5805,10 +5805,10 @@
 		]
 	},
 	{
-		"special_id": "L25",
+		"id": "L25",
 		"statement": "¿Cuánta gravedad tienen para usted sus problemas legales actuales?",
 		"order": 33,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "LAW",
 		"options": [
 			{
@@ -5839,10 +5839,10 @@
 		]
 	},
 	{
-		"special_id": "L24",
+		"id": "L24",
 		"statement": "¿Se encuentra en otra situación legal no mencionada anteriomente?",
 		"order": 32,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5858,10 +5858,10 @@
 		]
 	},
 	{
-		"special_id": "L23",
+		"id": "L23",
 		"statement": "¿Se encuentra participando en un programa de reinserción?",
 		"order": 31,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5877,10 +5877,10 @@
 		]
 	},
 	{
-		"special_id": "L22",
+		"id": "L22",
 		"statement": "¿Se encuentra pendiente de sentencia?",
 		"order": 30,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5896,10 +5896,10 @@
 		]
 	},
 	{
-		"special_id": "L21",
+		"id": "L21",
 		"statement": "¿Se encuentra pendiente de juicio o cargos?",
 		"order": 29,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5915,10 +5915,10 @@
 		]
 	},
 	{
-		"special_id": "L20",
+		"id": "L20",
 		"statement": "¿Se encuentra pendiente de libertad condicional?",
 		"order": 28,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5934,10 +5934,10 @@
 		]
 	},
 	{
-		"special_id": "L19",
+		"id": "L19",
 		"statement": "¿Se encuentra en libertad provisional?",
 		"order": 27,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5953,10 +5953,10 @@
 		]
 	},
 	{
-		"special_id": "L18",
+		"id": "L18",
 		"statement": "¿Su admisión a tratamiento es judicial?",
 		"order": 26,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5972,10 +5972,10 @@
 		]
 	},
 	{
-		"special_id": "L17",
+		"id": "L17",
 		"statement": "Desde los 18 años ¿Cuánto tiempo ha pasado en la cárcel o prisión?",
 		"order": 25,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -5991,10 +5991,10 @@
 		]
 	},
 	{
-		"special_id": "L16",
+		"id": "L16",
 		"statement": "¿Cuántas veces le han condenado por un delito cometido después de los 18 años de edad?",
 		"order": 24,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6005,10 +6005,10 @@
 		]
 	},
 	{
-		"special_id": "L15",
+		"id": "L15",
 		"statement": "¿Hace cuánto que le detuvieron por última vez?",
 		"order": 23,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6024,10 +6024,10 @@
 		]
 	},
 	{
-		"special_id": "L14A",
+		"id": "L14A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por cualquier otro delito penal en total?",
 		"order": 21,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6038,10 +6038,10 @@
 		]
 	},
 	{
-		"special_id": "L14B",
+		"id": "L14B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por cualquier otro delito penal en los últimos 6 meses?",
 		"order": 22,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6052,10 +6052,10 @@
 		]
 	},
 	{
-		"special_id": "L13A",
+		"id": "L13A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por conducir bajo los efectos de alcohol o drogas en total?",
 		"order": 19,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6066,10 +6066,10 @@
 		]
 	},
 	{
-		"special_id": "L13B",
+		"id": "L13B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por conducir bajo los efectos de alcohol o drogas en los últimos 6 meses?",
 		"order": 20,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6080,10 +6080,10 @@
 		]
 	},
 	{
-		"special_id": "L12A",
+		"id": "L12A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por posesión de armas, prostitución, o juego ilegal en total?",
 		"order": 17,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6094,10 +6094,10 @@
 		]
 	},
 	{
-		"special_id": "L12B",
+		"id": "L12B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por posesión de armas, prostitución, o juego ilegal en los últimos 6 meses?",
 		"order": 18,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6108,10 +6108,10 @@
 		]
 	},
 	{
-		"special_id": "L11A",
+		"id": "L11A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por delitos violentos en total?",
 		"order": 15,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6122,10 +6122,10 @@
 		]
 	},
 	{
-		"special_id": "L11B",
+		"id": "L11B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por delitos violentos en los últimos 6 meses?",
 		"order": 16,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6136,10 +6136,10 @@
 		]
 	},
 	{
-		"special_id": "L10A",
+		"id": "L10A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por otros delitos contra la propiedad en total?",
 		"order": 13,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6150,10 +6150,10 @@
 		]
 	},
 	{
-		"special_id": "L10B",
+		"id": "L10B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por otros delitos contra la propiedad en los últimos 6 meses?",
 		"order": 14,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6164,10 +6164,10 @@
 		]
 	},
 	{
-		"special_id": "L9A",
+		"id": "L9A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por atraco en total?",
 		"order": 11,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6178,10 +6178,10 @@
 		]
 	},
 	{
-		"special_id": "L9B",
+		"id": "L9B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por atraco en los últimos 6 meses?",
 		"order": 12,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6192,10 +6192,10 @@
 		]
 	},
 	{
-		"special_id": "L8A",
+		"id": "L8A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por venta o fabricación de drogas en total?",
 		"order": 9,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6206,10 +6206,10 @@
 		]
 	},
 	{
-		"special_id": "L8B",
+		"id": "L8B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por venta o fabricación de drogas en los últimos 6 meses?",
 		"order": 10,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6220,10 +6220,10 @@
 		]
 	},
 	{
-		"special_id": "L7A",
+		"id": "L7A",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por posesión de drogas en total?",
 		"order": 7,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6234,10 +6234,10 @@
 		]
 	},
 	{
-		"special_id": "L7B",
+		"id": "L7B",
 		"statement": "Desde los 18 años ¿Cuántas veces le han detenido por posesión de drogas en los últimos 6 meses?",
 		"order": 8,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6248,10 +6248,10 @@
 		]
 	},
 	{
-		"special_id": "L6",
+		"id": "L6",
 		"statement": "Antes de los 18 años ¿Cuánto tiempo estuvo en un calabozo, en un centro de rehabilitación, en un centro de rehabilitación de menores o en un reformatorio?",
 		"order": 6,
-		"type": "MNQ",
+		"question_type": "MNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6262,10 +6262,10 @@
 		]
 	},
 	{
-		"special_id": "L5",
+		"id": "L5",
 		"statement": "¿Cuántas veces le han condenado por un delito cometido antes de los 18 años de edad?",
 		"order": 5,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6276,10 +6276,10 @@
 		]
 	},
 	{
-		"special_id": "L4",
+		"id": "L4",
 		"statement": "Antes de los 18 años ¿Alguna vez fue realmente detenido (tiene antecedentes penales) por?",
 		"order": 4,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "LAW",
 		"options": [
 			{
@@ -6310,10 +6310,10 @@
 		]
 	},
 	{
-		"special_id": "L3",
+		"id": "L3",
 		"statement": "¿Qué edad tenía la primera vez que fue detenido?",
 		"order": 3,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6324,10 +6324,10 @@
 		]
 	},
 	{
-		"special_id": "L2",
+		"id": "L2",
 		"statement": "¿Ha sido detenido alguna vez?",
 		"order": 2,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6343,10 +6343,10 @@
 		]
 	},
 	{
-		"special_id": "L1",
+		"id": "L1",
 		"statement": "¿Alguna vez ha estado en el calabozo/cárcel, incluso unas pocas horas?",
 		"order": 1,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "LAW",
 		"options": [
 			{
@@ -6362,10 +6362,10 @@
 		]
 	},
 	{
-		"special_id": "D60",
+		"id": "D60",
 		"statement": "¿En los últimos 30 días ¿Cuántos días ha jugado a cualquier tipo de juego como lotería, cupón, quiniela, máquinas tragaperras, bingo, apuestas en las carreras, casinos... O a cualquier tipo de juego ilegal?",
 		"order": 102,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6376,10 +6376,10 @@
 		]
 	},
 	{
-		"special_id": "D59",
+		"id": "D59",
 		"statement": "¿Alguna vez ha sufrido algún problema económico debido al juego?",
 		"order": 101,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6395,10 +6395,10 @@
 		]
 	},
 	{
-		"special_id": "D58",
+		"id": "D58",
 		"statement": "En los últimos 30 días ¿Cuántos días ha fumado cigarrillos (O consumió tabaco de otras formas)?",
 		"order": 100,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6409,10 +6409,10 @@
 		]
 	},
 	{
-		"special_id": "D57",
+		"id": "D57",
 		"statement": "¿Cuántos años ha fumado cigarrillos (O consumido tabaco de otras formas) diariamente?",
 		"order": 99,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6423,10 +6423,10 @@
 		]
 	},
 	{
-		"special_id": "D56",
+		"id": "D56",
 		"statement": "¿Qué edad tenía la primera vez que fumó cigarrillos o consumió tabaco de otras formas?",
 		"order": 98,
-		"type": "SAQ",
+		"question_type": "SAQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6437,10 +6437,10 @@
 		]
 	},
 	{
-		"special_id": "D55",
+		"id": "D55",
 		"statement": "¿Cuándo fue la última vez que se hizo la prueba del VIH/SIDA?",
 		"order": 97,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6456,10 +6456,10 @@
 		]
 	},
 	{
-		"special_id": "D54",
+		"id": "D54",
 		"statement": "En los últimos 6 meses ¿Con cuántas personas distintas ha mantenido relaciones sexuales orales, anales o vaginales?",
 		"order": 96,
-		"type": "TNQ",
+		"question_type": "TNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6470,10 +6470,10 @@
 		]
 	},
 	{
-		"special_id": "D53",
+		"id": "D53",
 		"statement": "¿Cuándo fue la última vez que compartió jeringuillas o material para inyectarse?",
 		"order": 95,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6489,10 +6489,10 @@
 		]
 	},
 	{
-		"special_id": "D52",
+		"id": "D52",
 		"statement": "¿Alguna vez se ha inyectado drogas?",
 		"order": 94,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6508,10 +6508,10 @@
 		]
 	},
 	{
-		"special_id": "D51",
+		"id": "D51",
 		"statement": "¿Hace cuánto tiempo terminó este periodo de abstinencia?",
 		"order": 93,
-		"type": "OEYMQ",
+		"question_type": "OEYMQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6527,10 +6527,10 @@
 		]
 	},
 	{
-		"special_id": "D50",
+		"id": "D50",
 		"statement": "En los últimos 30 días. Desde que empezó a consumir ¿Ha estado alguna vez completamente abstinente de drogas y alcohol durante al menos un año?",
 		"order": 92,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6546,10 +6546,10 @@
 		]
 	},
 	{
-		"special_id": "D49",
+		"id": "D49",
 		"statement": "¿Cuánta importancia tiene para usted lograr/mantener la abstinencia total de drogas?",
 		"order": 91,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6580,10 +6580,10 @@
 		]
 	},
 	{
-		"special_id": "D48",
+		"id": "D48",
 		"statement": "¿Cuánta importancia tiene ahora para usted el tratamiento (actual o adicional) para dejar de consumir drogas?",
 		"order": 90,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6614,10 +6614,10 @@
 		]
 	},
 	{
-		"special_id": "D47",
+		"id": "D47",
 		"statement": "En los últimos 30 días ¿Cuánta preocupación ha tenido por culpa de estos problemas relacionados con las drogas?",
 		"order": 89,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6648,10 +6648,10 @@
 		]
 	},
 	{
-		"special_id": "D46",
+		"id": "D46",
 		"statement": "¿Cuántos días ha tenido estas u otras dificultades debido al consumo de drogas?",
 		"order": 88,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6662,10 +6662,10 @@
 		]
 	},
 	{
-		"special_id": "D45",
+		"id": "D45",
 		"statement": "¿El ansia o los impulsos de consumir drogas han supuesto un problema para usted?",
 		"order": 87,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6681,10 +6681,10 @@
 		]
 	},
 	{
-		"special_id": "D44",
+		"id": "D44",
 		"statement": "Debido a las drogas ¿Ha tenido problemas médicos o psicológicos; O en el trabajo (colegio) o en el hogar, o se ha visto envuelto en discusiones o problemas con la ley?",
 		"order": 86,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6700,10 +6700,10 @@
 		]
 	},
 	{
-		"special_id": "D43",
+		"id": "D43",
 		"statement": "¿Ha tenido algún problema para controlar, disminuir o dejar de consumir alguna droga; o ha empleado la mayor parte del día consumiendo alguna droga, recuperándose de sus efectos o intentando conseguirla?",
 		"order": 85,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6719,10 +6719,10 @@
 		]
 	},
 	{
-		"special_id": "D42",
+		"id": "D42",
 		"statement": "¿Ha experimentado síntomas de abstinencia (se ha sentido enfermo) tras disminuir o dejar de consumir alguna droga?",
 		"order": 84,
-		"type": "BQ",
+		"question_type": "BQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6738,10 +6738,10 @@
 		]
 	},
 	{
-		"special_id": "D41",
+		"id": "D41",
 		"statement": "En los últimos 30 días ¿Cuánto dinero gastó en drogas?",
 		"order": 83,
-		"type": "SMA",
+		"question_type": "SMA",
 		"category": "DRU",
 		"options": [
 			{
@@ -6752,10 +6752,10 @@
 		]
 	},
 	{
-		"special_id": "D40",
+		"id": "D40",
 		"statement": "¿Cuándo consumió por última vez drogas ilegales o abusó de la medicación prescrita?",
 		"order": 82,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6766,10 +6766,10 @@
 		]
 	},
 	{
-		"special_id": "D39",
+		"id": "D39",
 		"statement": "En los últimos 30 días ¿Cuántos días ha consumido drogas ilegales o ha abusado de la medicación prescrita?",
 		"order": 81,
-		"type": "DNQ",
+		"question_type": "DNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6780,10 +6780,10 @@
 		]
 	},
 	{
-		"special_id": "D38",
+		"id": "D38",
 		"statement": "En los últimos 6 meses, en el mes de máximo consumo de drogas ilegales (y/o abuso de la medicación prescrita) ¿Con qué frecuencia estuvo consumiendo drogas?",
 		"order": 80,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6814,10 +6814,10 @@
 		]
 	},
 	{
-		"special_id": "D37",
+		"id": "D37",
 		"statement": "¿Cuántos años ha consumido 3 o más días a la semana drogas ilegales (excluyendo alcohol) o ha abusado de la medicación prescrita?",
 		"order": 79,
-		"type": "YNQ",
+		"question_type": "YNQ",
 		"category": "DRU",
 		"options": [
 			{
@@ -6828,10 +6828,10 @@
 		]
 	},
 	{
-		"special_id": "D36",
+		"id": "D36",
 		"statement": "¿Cuál de las siguientes sustancias es para usted la tercera más problemática y puede haberle llevado a iniciar el tratamiento?",
 		"order": 76,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6897,10 +6897,10 @@
 		]
 	},
 	{
-		"special_id": "D36B",
+		"id": "D36B",
 		"statement": "¿De qué forma ha consumido dicha sustancia a lo largo de su vida?",
 		"order": 77,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6931,10 +6931,10 @@
 		]
 	},
 	{
-		"special_id": "D36C",
+		"id": "D36C",
 		"statement": "¿De qué forma ha consumido esta sustancia en los últimos 30 días?",
 		"order": 78,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -6965,10 +6965,10 @@
 		]
 	},
 	{
-		"special_id": "D35",
+		"id": "D35",
 		"statement": "¿Cuál de las siguientes sustancias es para usted la segunda más problemática y puede haberle llevado a iniciar el tratamiento?",
 		"order": 73,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7034,10 +7034,10 @@
 		]
 	},
 	{
-		"special_id": "D35B",
+		"id": "D35B",
 		"statement": "¿De qué forma ha consumido dicha sustancia a lo largo de su vida?",
 		"order": 74,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7068,10 +7068,10 @@
 		]
 	},
 	{
-		"special_id": "D35C",
+		"id": "D35C",
 		"statement": "¿De qué forma ha consumido esta sustancia en los últimos 30 días?",
 		"order": 75,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7102,10 +7102,10 @@
 		]
 	},
 	{
-		"special_id": "D34",
+		"id": "D34",
 		"statement": "¿Cuál de las siguientes sustancias es para usted la más problemática y puede haberle llevado a iniciar el tratamiento?",
 		"order": 70,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7171,10 +7171,10 @@
 		]
 	},
 	{
-		"special_id": "D34B",
+		"id": "D34B",
 		"statement": "¿De qué forma ha consumido dicha sustancia a lo largo de su vida?",
 		"order": 71,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7205,10 +7205,10 @@
 		]
 	},
 	{
-		"special_id": "D34C",
+		"id": "D34C",
 		"statement": "¿De qué forma ha consumido esta sustancia en los últimos 30 días?",
 		"order": 72,
-		"type": "MAMCQN",
+		"question_type": "MAMCQN",
 		"category": "DRU",
 		"options": [
 			{
@@ -7239,10 +7239,10 @@
 		]
 	},
 	{
-		"special_id": "V1",
+		"id": "V1",
 		"statement": "Valore la capacidad aparente y la buena voluntad del entrevistado para comprender las preguntas, proporcionar estimaciones exactas y reflexivas, y responder honestamente. En general, la información proporcionada por el entrevistado es:",
 		"order": 1,
-		"type": "SAMCQN",
+		"question_type": "SAMCQN",
 		"category": "VAL",
 		"options": [
 			{
